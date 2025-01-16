@@ -1,6 +1,6 @@
 # Hi there, I'm Nicole! 👋
 - Aspiring software engineer skilled in programming, data structures, and algorithms. Dedicated to developing efficient tech solutions while leveraging leadership, collaboration, and communication. Proficient in time management and problem-solving, with a commitment to innovation in dynamic environments. <br/>
-- Currently pursuing a B.S. in Computer Science
+- Currently pursuing a Bachelor of Science in Computer Science
 
 
 ## ✉️ Socials:
