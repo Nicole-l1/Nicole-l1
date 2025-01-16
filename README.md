@@ -1,4 +1,4 @@
-# Hi there, I'm Nicole 👋
+# Hi there, I'm Nicole! 👋
 - Aspiring software engineer skilled in programming, data structures, and algorithms. Dedicated to developing efficient tech solutions while leveraging leadership, collaboration, and communication. Proficient in time management and problem-solving, with a commitment to innovation in dynamic environments. <br/>
 - Currently pursuing a B.S. in Computer Science
 
@@ -13,6 +13,7 @@ LinkedIn: https://linkedin.com/in/nicoleluileung
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
