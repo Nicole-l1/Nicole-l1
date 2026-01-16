@@ -1,6 +1,7 @@
 # Hi there, I'm Nicole! 👋
 - Aspiring software engineer skilled in programming, data structures, and algorithms. Dedicated to developing efficient technology solutions while leveraging leadership, collaboration, and communication. Proficient in time management and problem-solving, with a commitment to innovation in dynamic software development environments. <br/>
-- Currently pursuing a Bachelor of Science (B.S.) degree in Computer Science (specialization in Artificial Intelligence and Data Science) and a minor in Finance.
+- Currently pursuing a Bachelor of Science (B.S.) degree in Computer Science (specialization in Artificial Intelligence and Data Science) and a minor in Finance at Stony Brook University.
+- Expected graduation by May 2027.
 
 
 ## ✉️ Socials:
