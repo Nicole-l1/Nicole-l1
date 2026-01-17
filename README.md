@@ -5,7 +5,7 @@
 
 
 ## ✉️ Socials:
-LinkedIn: https://linkedin.com/in/nicoleluileung
+LinkedIn: https://linkedin.com/in/nicoleluileung  
 Website: https://nicoleluileung.vercel.app/
 
 ## 💻 Tech Stack:
