@@ -4,7 +4,7 @@
 - Expected graduation by May 2027.
 
 
-## ✉️ Socials:
+## ✉️ Connect with Me:
 LinkedIn: https://linkedin.com/in/nicoleluileung  
 Website: https://nicoleluileung.vercel.app/
 
